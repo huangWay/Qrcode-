@@ -2,8 +2,8 @@
 //  HWQrcodeScanViewController.h
 //  ZBar
 //
-//  Created by 黄伟 on 15/7/16.
-//  Copyright © 2015年 huangwei. All rights reserved.
+//  Created by 黄伟 on 14/7/16.
+//  Copyright © 2014年 huangwei. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
